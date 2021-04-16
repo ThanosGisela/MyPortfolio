@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(139, 105, 53);
+}
+
+.top{
+    background-color: rgb(130, 160, 95);
+    
+    display: flex;   
+    
+}
+
+.link1 {
+    border:rgb(0, 0, 0) 2px solid;
+padding: 5px;
+background-color: thistle;
+margin:10px;
+}

@@ -1,0 +1,27 @@
+
+.main-section{
+    margin: 10px;
+    margin-bottom: 100px;
+    float: left;
+width: auto;
+height: 315;
+width: 650;
+}
+.main-section video, iframe{
+    height: 200px;
+    width: 320 px;
+    border-radius: 20px;
+    border-color: black;
+float: left;
+height: 315;
+width: auto;
+}
+
+
+.main-section desc{
+    background-color: cadetblue;
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+  
+}

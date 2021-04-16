@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+}
+
+
+
+
+.top div{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    font-family: -apple-system, BlinkMacSystemFont,  'Roboto', 'Oxygen', Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+    float: left;
+    
+}
+.top div p{
+    float: right;
+    padding: 30px;
+   
+}
+.mid {
+    
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    height: 200px; width: 500px; 
+    text-align: center;
+   width: 10%;
+  
+}
